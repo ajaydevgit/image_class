@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green.svg)](https://opencv.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
-[![Karma Points](https://img.shields.io/badge/%E2%AD%90%20Karma%20Points-200-gold.svg)](#)
-[![Task](https://img.shields.io/badge/Task-18%20(CV%20in%20Practice)-purple.svg)](#)
 
 > **CV in Practice: Task 1 (Task 18)** — Building a simple image classification system leveraging **OpenCV** for computer vision image preprocessing & enhancement, paired with **Support Vector Machine (SVM)** and **k-Nearest Neighbors (k-NN)** machine learning algorithms for digit classification.
 
